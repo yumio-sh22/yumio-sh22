@@ -1,7 +1,7 @@
 # Hi there! I'm Diana Martinson ✨
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=fec5e5&height=200&section=header&text=Martinson%20Diana&fontSize=70&animation=fadeIn&fontAlignY=38" alt="header" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=fec5e5&height=200&section=header&text=Martinson%20Diana&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 ### 🌸 About Me
