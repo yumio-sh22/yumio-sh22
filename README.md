@@ -35,7 +35,8 @@ Nice to meet you! I am a **Data Analyst** actively growing in the fields of Busi
 ### Connect with me 🎀
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/yumio_shinai)
-
+[<img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/i___m.e.o.w___i)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:martisondv@gmail.com)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=yumio-sh22&color=ff69b4&style=flat-square&label=VISITS" alt="hits" />
 </p> 
