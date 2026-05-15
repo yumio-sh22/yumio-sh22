@@ -1,9 +1,5 @@
 # Hi there! I'm Diana Martinson ✨
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=fec5e5&height=200&section=header&text=Martinson%20Diana&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</p>
-
 ### 🌸 About Me
 Nice to meet you! I am a **Data Analyst** actively growing in the fields of Business Analytics and Machine Learning. My approach combines deep data exploration with a strong understanding of product needs.
 
